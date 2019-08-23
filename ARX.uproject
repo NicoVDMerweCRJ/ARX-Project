@@ -73,6 +73,16 @@
 			"SupportedTargetPlatforms": [
 				"Lumin"
 			]
+		},
+		{
+			"Name": "Projectionist",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a399a53db98449de97a9f7f1b57af973"
+		},
+		{
+			"Name": "HTMLMenuMain",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/17ba193d00e249ca9ec7cfaf52602a76"
 		}
 	],
 	"TargetPlatforms": [
